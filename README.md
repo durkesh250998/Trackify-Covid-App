@@ -1,6 +1,6 @@
-# app1
+# Trackify Covid App
 
-A new Flutter application.
+# Flutter
 
 ## Getting Started
 
